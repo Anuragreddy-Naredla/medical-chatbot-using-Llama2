@@ -40,8 +40,12 @@ Now,
 open up localhost:
 
 ## Techstack Used:
-. Python
-. LangChain
-. Flask
-. Meta Llama2
-. Pinecone
+Python
+
+LangChain
+
+Flask
+
+Meta Llama2
+
+Pinecone
